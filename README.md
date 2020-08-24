@@ -10,6 +10,8 @@
 
 涉及的损失函数有CE,Label Smoothing,Focal loss和GHMC。
 
+详见：<https://zhuanlan.zhihu.com/p/191355122>
+
 效果的对比如下：
 
 ![1598236997310](https://github.com/qingkongzhiqian/NER_loss_compare/blob/master/img/2020-08-24_112228.png)
