@@ -12,7 +12,7 @@
 
 效果的对比如下：
 
-![1598236997310](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1598236997310.png)
+![1598236997310](https://github.com/qingkongzhiqian/NER_loss_compare/blob/master/img/2020-08-24_112228.png)
 
 各损失函数的变化趋势：
 
