@@ -16,9 +16,9 @@
 
 各损失函数的变化趋势：
 
-![1598237047652](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1598237047652.png)
+![1598237047652](https://github.com/qingkongzhiqian/NER_loss_compare/blob/master/img/2020-08-24_112352.png)
 
-![1598237066432](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1598237066432.png)
+![1598237066432](https://github.com/qingkongzhiqian/NER_loss_compare/blob/master/img/2020-08-24_112403.png)
 
 从loss曲线来看，四个损失函数下模型已经收敛，从F1效果看整体的效果是：
 
